@@ -1,2 +1,2 @@
 # PigGame_V2
-this is a remade for the pig game the i made before.
+this is a remade for the pig game that i made before.
